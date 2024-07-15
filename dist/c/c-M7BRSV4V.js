@@ -1,0 +1,1 @@
+import{a as o}from"https://st-p.rmcdn.net/af2666fc/dist/c/c-UGUCNLQ2.js";var r,s,d=o(()=>{r=async({widget:e})=>{let t=e?.$el?.[0];t&&e.cursorStyle&&(t.style.cursor=e.cursorStyle)},s=r});d();export{s as default};

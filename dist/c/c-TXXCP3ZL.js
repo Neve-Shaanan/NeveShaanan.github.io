@@ -1,0 +1,1 @@
+import{a as t}from"https://st-p.rmcdn.net/af2666fc/dist/c/c-UGUCNLQ2.js";var o,n,i=t(()=>{o=({widget:e})=>{e&&e.isDragging&&(e.isDragging=!1,e.mag.isWidgetDragging=!1,document.body.style.pointerEvents==="none"&&(document.body.style.pointerEvents=""))},n=o});i();export{n as default};

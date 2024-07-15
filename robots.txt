@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://testsite67.cryptopunks.org/sitemap.xml
+Sitemap: http://neveshaanan.eliors.com/sitemap.xml
