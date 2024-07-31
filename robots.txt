@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: http://neveshaanan.eliors.com/sitemap.xml
+Sitemap: https://neveshaanan.eliors.com/sitemap.xml
